@@ -229,9 +229,13 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dreamxbotz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/dreamxbotz">[ ᴅʀᴇᴀᴍxʙᴏᴛᴢ ]</a></b>"""
-
-    
+    CAPTION = """📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+FɪʟᴇSɪᴢᴇ : {file_size} 
+╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗ 
+➲ <a href="https://t.me/+96eI_oq9Tes0YmZl">𝗢𝗧𝗧 𝗥𝗘𝗟𝗘𝗔𝗦𝗘 𝗠𝗢𝗩𝗜𝗘</a><br>
+➲ <a href="https://t.me/+umUqkyLHt5g3NzZl">𝗠𝗢𝗩𝗜𝗘 𝗨𝗣𝗗𝗔𝗧𝗘𝗦</a><br>
+➲ <a href="@Mallu_2026_bot">𝗠𝗔𝗟𝗔𝗬𝗔𝗟𝗠 𝗠𝗢𝗩𝗜𝗘 𝗕𝗢𝗧</a><br>
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
     MOVIE_UPDATE_NOTIFY_TXT = """
 </b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
 
